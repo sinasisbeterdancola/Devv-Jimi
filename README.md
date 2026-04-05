@@ -15,5 +15,4 @@ I'm a **14-year-old developer**
 ---
 
 
-### 📊 Stats
-![Jimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinasisbeterdancola&show_icons=true&theme=radical)
+
