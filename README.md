@@ -1,15 +1,19 @@
+## 💫 About Me
+
+### 👋 Hi, I'm Jimi!
+I'm a **14-year-old developer**
+
+---
+
+### 🛠 Tech Stack
+
+| Category | Languages |
+| :--- | :--- |
+| **Frontend** | `HTML5` `CSS3` `JavaScript` |
+| **Backend & Scripting** | `Python` `Lua` |
+
+---
 
 
-## 🙃 About me
-Its ! Jimi
-
-## 💬 Ask me about
-- Computers
-- Hosting/servers
-- Linux
-
-## ⚡ Fun fact
-I have 2 year development experience
-
-## 📫 How to reach me
-My Discord username is j.03452
+### 📊 Stats
+![Jimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinasisbeterdancola&show_icons=true&theme=radical)
