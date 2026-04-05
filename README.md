@@ -9,8 +9,8 @@ I'm a **14-year-old developer**
 
 | Category | Languages |
 | :--- | :--- |
-| **Frontend** | `HTML5` `CSS3` `JavaScript` |
-| **Backend & Scripting** | `Python` `Lua` |
+| **Frontend** | `HTML` `CSS` `JavaScript` |
+| **Backend & Scripting** | `Python` `Lua` `PHP` |
 
 ---
 
