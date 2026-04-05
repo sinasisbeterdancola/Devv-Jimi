@@ -13,6 +13,3 @@ I have 2 year development experience
 
 ## 📫 How to reach me
 My Discord username is j.03452
-
-
-![Jimi's github stats](https://github-readme-stats.vercel.app/api?username=Devv-Jimi)
