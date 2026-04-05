@@ -1,7 +1,7 @@
 
 
 ## 🙃 About me
-Its Gwn Jimi.
+Its ! Jimi
 
 ## 💬 Ask me about
 - Computers
@@ -9,10 +9,10 @@ Its Gwn Jimi.
 - Linux
 
 ## ⚡ Fun fact
-I have 1 year development experiens
+I have 2 year development experience
 
 ## 📫 How to reach me
-My Discord username is WsgJimi, but you can also send me a message wherever else you find me.
+My Discord username is j.03452
 
 
 ![Jimi's github stats](https://github-readme-stats.vercel.app/api?username=Devv-Jimi)
